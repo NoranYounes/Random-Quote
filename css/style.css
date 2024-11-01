@@ -1,0 +1,11 @@
+.ground
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/cover.jpg);
+    background-size: cover;
+    background-position:center;
+   
+}
+h1,h4{
+    font-family: "Noto Serif", serif;
+
+}
